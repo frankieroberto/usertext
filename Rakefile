@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "usertext"
   gem.homepage = "http://github.com/frankieroberto/usertext"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A simple text processing engine for user-contributed text.}
+  gem.description = %Q{Not a markup language - rather, an library for processing user-contributed text that handles the common ways in which ordinary users add meaning, structure and formatting using plain text.}
   gem.email = "frankie@frankieroberto.com"
   gem.authors = ["Frankie Roberto"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
